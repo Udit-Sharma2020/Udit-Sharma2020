@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/74101377/182883300-5c7b85e1-2740-444c-b74a-8e857126673b.gif" width="100"/> Guest🙌, Welcome to my Github Profile. I'm Udit Sharma! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>DevOps Intern at <b>DronaPay</b>
+<p><em>DevOps Engineer at <b>DronaPay</b>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
